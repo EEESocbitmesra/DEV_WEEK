@@ -21,7 +21,7 @@ Lets divide this week into smaller tasks.
 - :+1: Follow [this](https://codinginflow.com/google-programming-questions) website if stuck and then move to next rule, if the issue still persists.
 - :+1: Keep asking doubts, as they are a part of learning.
 - :+1: Every Programming language has a coding standard, make sure to follow that. Why? 
-> To become a better Developer ;)
+- > To become a better Developer ;)
 - :+1: etc etc
 
 ### Top Learner will be given a direct entry to the Development Team of EEESoc, BIT Mesra
