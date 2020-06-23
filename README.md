@@ -1,8 +1,8 @@
-# DEV_WEEK brought to you by EESoc
+# DEV_WEEK brought to you by EEESoc
 
 This is Dev Week, a time to invest your time and potential in expanding your skill set. Throughout this week you will be learning various things all by doing yourself, right from the scratch. ETC ETC ETC
 
-> Sounds interesting? Hop in.
+**Sounds interesting? Hop in.**
 
 Lets divide this week into smaller tasks.
 
