@@ -16,14 +16,14 @@ Lets divide this week into smaller tasks.
 - [ ] Maintain a readme file for progress of each day<readme file format will be provided>. Things of pt6 must be included in readme.
 - [ ] On the last day make a repo named <username.github.io>. make copy of this final code in the new folder and push everything.
 
-##Rules and Tips
-:+1: While editing the template, follow the guide given in metadata.txt file. Points will be awarded accordingly.
-;+1: Follow [this](https://codinginflow.com/google-programming-questions) website if stuck and then move to next rule, if the issue still persists.
-:+1: Keep asking doubts, as they are a part of learning.
-:+1: Every Programming language has a coding standard, make sure to follow that. Why? 
+## Rules and Tips
+- :+1: While editing the template, follow the guide given in metadata.txt file. Points will be awarded accordingly.
+- :+1: Follow [this](https://codinginflow.com/google-programming-questions) website if stuck and then move to next rule, if the issue still persists.
+- :+1: Keep asking doubts, as they are a part of learning.
+- :+1: Every Programming language has a coding standard, make sure to follow that. Why? 
 > To become a better Developer ;)
-:+1: etc etc
+- :+1: etc etc
 
-###Top Learner will be given a direct entry to the Development Team of EEESoc, BIT Mesra
+### Top Learner will be given a direct entry to the Development Team of EEESoc, BIT Mesra
 
 
