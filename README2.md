@@ -30,7 +30,7 @@
     Resource Links :
     - <a href="https://www.w3schools.com/css/default.asp">w3schools</a>
     - <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">MDN web docs</a>
-    - List of important things to learn in CSS :
+    - List of important topics to learn in CSS :
         - [ ] Different type of Stylesheets
         - [ ] Selectors
         - [ ] Basic Styling such as font-size, width, etc.
@@ -41,19 +41,51 @@
         - [ ] Fluid Layouts
         - [ ] Media Queries
         - [ ] Flexbox and Grids
-        - [ ] Transforms, Transitions and Animations
+        - [ ] Transforms, Transitions and Animations 
+- [ ] You can also learn about CSS Frameworks like Bootstrap, Frontend, etc.
 
 ## Day 4
-- [ ] Start adding some CSS to your project. Keep all the css in **<project_dir>/assets/css/** folder
-- [ ] Add the CSS in your index.html using **link** tag
+- [ ] Start adding some CSS to your project. Keep all the css in **<project_dir>/assets/css/** folder.
+- [ ] You can also use Bootstrap or any other Framework for styling.
+- [ ] Add the CSS file in your index.html using **link** tag
+
 <!-- Add some specific tasks to be performed using html. For example, use of @media, zoom on hover etc. etc -->
+- [ ] Create atleast one animation, transformation and transition using only CSS.
+- [ ] Use Flexbox atleast for one section.
+- [ ] Use Psuedo Classes atleast once.
+- [ ] Use Descendant Selector atleast once.
+- [ ] Make the website responsive.
+
 - [ ] So, that's a lot of learning for 3 days straight. Go watch <a href="https://www.youtube.com/watch?v=D8c4JZW73cM">this</a>, have  a coffee and get back because **CODERS NEVER QUIT, QUITTERS NEVER CODE**
 
 ## Day 5(JS)
-
+- [ ] Start Learning Javascipt from 
+    - <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide">MDN Web Docs</a>
+    - <a href="https://eloquentjavascript.net/">Eloquent Javascript Book for reference</a>
+    - List of important topics to learn in Javascipt :
+        - [ ] Types, Variables and Scoping
+        - [ ] Objects and Functions
+        - [ ] The DOM
+        - [ ] Events and EventListeners
+        - [ ] Flow Control
+        - [ ] ES6, etc
+- [ ] You can also learn about any Javascipt Frameworks like JQuery, React, etc
+    
 ## Day 6 (JS)
+- [ ] Start adding JS to your project. Keep all the JS in **<project_dir>/assets/js/** folder.
+- [ ] You can also use JQuery or any other Framework for styling.
+- [ ] Add the JS script in your index.html using **script** tag
+
+- [ ] Create atleast 
+   - [ ] Two of these animations by DOM manipulation using Javascript -
+        - [ ] Fade-Effect
+        - [ ] Roll-in or Roll-out
+        - [ ] Page-In or Page-out
+        - [ ] Object Movements
+        - [ ] Fireworks
+   - [ ] Two EventListeners for events like Click, KeyDown, Resize, etc.
 
 ## Day 7
 - [ ] Make any final changes in your website, you still have time.
-- [ ] Make sure GitHub pages is enabled for this repo (if not, do so)
-- [ ] Visit **your_username.github.io**. That is your portfolio.
+- [ ] Make sure GitHub pages is enabled for your repository (if not, do so)
+- [ ] Visit **your_username.github.io**. That should be your portfolio.
