@@ -1,13 +1,13 @@
 ## Day 1
 - [ ] Learn about basics of Git and GitHub.
 - [ ] Make a github account
-- [ ] fork the repo
-- [ ] clone forked repo
-- [ ] Make a new github repo with name **your_username.github.io**
-- [ ] Make a new folder in your 
-- [ ] Delete the .git file
-- [ ] Reinitialize this repo
-- [ ] Push the contents to your new repoitory (**your_username.github.io**)
+- [ ] Fork this Repository
+- [ ] Clone the Forked Repository
+- [ ] Make a new GitHub Repository with name **your_username.github.io** on your GitHub account.
+- [ ] Make a New Folder in your Local PC and copy the cloned Repository into the New Folder.
+- [ ] Delete the .git file from the New Folder
+- [ ] Initialize this New Folder as a Git Repository.
+- [ ] Push the contents to your new repository (**your_username.github.io**)
 
 ## Day 2
 - [ ] Start Learning HTML from 
