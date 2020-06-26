@@ -14,7 +14,8 @@
     - <a href="https://www.w3schools.com/html/default.asp">w3schools</a>
     - <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">MDN web docs</a>
     - List of important tags :
-        - [ ] <!-- @devansh -->
+        - [ ] <head> </head>
+        - [ ] 
 - [ ] Make changes in the index.html page of your repo.
 - [ ] Commit the changes
 
