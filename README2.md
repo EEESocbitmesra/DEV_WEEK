@@ -89,3 +89,6 @@
 - [ ] Make any final changes in your website, you still have time.
 - [ ] Make sure GitHub pages is enabled for your repository (if not, do so)
 - [ ] Visit **your_username.github.io**. That should be your portfolio.
+- [ ] Keep the forked repository in sync with the actual repository. Refer <a href="https://gist.github.com/CristinaSolana/1885435">this.</a>
+- [ ] In the synced fork on your repository, edit the Readme.md file to add your Name and the link to your portfolio.
+- [ ] Then make a Pull Request to the Repository on EEESoc Organisation from which you had first forked.
