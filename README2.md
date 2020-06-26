@@ -17,21 +17,31 @@
         - [ ] Heading tags
         - [ ] Paragraph tag
         - [ ] Anchor tag
-        - [ ] List tag
+        - [ ] List tags
         - [ ] Image tag
-        - [ ] Form tag
-        - [ ] Table tag
-        - [ ] Meta tag 
-- [ ] Make changes in the index.html page of your repo.
-- [ ] Commit the changes
+        - [ ] Form tags
+        - [ ] Table tags
+        - [ ] Meta tag, etc.
+- [ ] Make changes in the index.html page of your repository.
+- [ ] Commit and push the changes to your repository.
 
 ## Day 3
 - [ ] Get acquainted with CSS
-    Resourec Links :
+    Resource Links :
     - <a href="https://www.w3schools.com/css/default.asp">w3schools</a>
     - <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">MDN web docs</a>
     - List of important things to learn in CSS :
-        - [ ] <!-- @devansh -->
+        - [ ] Different type of Stylesheets
+        - [ ] Selectors
+        - [ ] Basic Styling such as font-size, width, etc.
+        - [ ] Color formats
+        - [ ] Box Model
+        - [ ] Display, Positon and Float
+        - [ ] Psuedo Classes and Combinators
+        - [ ] Fluid Layouts
+        - [ ] Media Queries
+        - [ ] Flexbox and Grids
+        - [ ] Transforms, Transitions and Animations
 
 ## Day 4
 - [ ] Start adding some CSS to your project. Keep all the css in **<project_dir>/assets/css/** folder
