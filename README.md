@@ -19,6 +19,7 @@ Lets divide this week into smaller tasks.
 
 ## Rules and Tips
 - :+1: While editing the template, follow the <a href="https://github.com/EEESocbitmesra/DEV_WEEK/blob/master/README.md">README.md</a> file. Points will be awarded accordingly.
+- :+1: After completing all the tasks of a single day, make sure to update <a href="https://docs.google.com/spreadsheets/d/1SMP1g4yqpL8hpf8T1GFFPBTMSHZHmMZd8xaNTdwJbYE/edit?usp=sharing">this</a> sheet. 
 - :+1: Follow [this](https://codinginflow.com/google-programming-questions) website if stuck and then move to next rule, if the issue still persists.
 - :+1: Keep asking doubts, as they are a part of learning.
 - :+1: Every Programming language has a coding standard, make sure to follow that. Why? 
