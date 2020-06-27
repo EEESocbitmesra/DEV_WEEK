@@ -8,13 +8,10 @@ Lets divide this week into smaller tasks.
 
 ## Tasks
 - [ ] Learn Git and GitHub by making an account on GitHub
-- [ ] Fork the repo <Repo link>
+- [ ] Fork the repo <a href="https://github.com/EEESocbitmesra/DEV_WEEK">EEESoc BIT Mesra's, DEV_WEEK</a>
 - [ ] Clone the forked repo
-- [ ] Make a new branch with your name
-- [ ] Start editing the template
-- [ ] With each commit fill a google sheet about tech learnt, some comments and any helpful resources you found.
-- [ ] Maintain a readme file for progress of each day<readme file format will be provided>. Things of pt6 must be included in readme.
-- [ ] On the last day make a repo named <username.github.io>. make copy of this final code in the new folder and push everything.
+- [ ] Copy the folder **project_folder** to some other location on your computer
+- [ ] Now go <a href="https://github.com/EEESocbitmesra/DEV_WEEK/tree/master/project_folder#day-1">here</a> and start __Day1__
 
 ## Rules and Tips
 - :+1: While editing the template, follow the guide given in metadata.txt file. Points will be awarded accordingly.
@@ -25,5 +22,3 @@ Lets divide this week into smaller tasks.
 - :+1: etc etc
 
 ### Top Learner will be given a direct entry to the Development Team of EEESoc, BIT Mesra
-
-
