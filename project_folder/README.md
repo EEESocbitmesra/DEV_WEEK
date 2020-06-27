@@ -1,11 +1,6 @@
 ## Day 1
-- [ ] Learn about basics of Git and GitHub.
-- [ ] Make a github account
-- [ ] Fork this Repository
-- [ ] Clone the Forked Repository
+- [ ] Make sure youo have gone through <a href="https://github.com/EEESocbitmesra/DEV_WEEK#tasks">this</a> before entering here.
 - [ ] Make a new GitHub Repository with name **your_username.github.io** on your GitHub account.
-- [ ] Make a New Folder in your Local PC and copy the cloned Repository into the New Folder.
-- [ ] Delete the .git file from the New Folder
 - [ ] Initialize this New Folder as a Git Repository.
 - [ ] Push the contents to your new repository (**your_username.github.io**)
 
@@ -42,7 +37,7 @@
         - [ ] Media Queries
         - [ ] Flexbox and Grids
         - [ ] Transforms, Transitions and Animations 
-- [ ] You can also learn about CSS Frameworks like Bootstrap, Frontend, etc.
+- [ ] You can also learn about CSS Frameworks like <a href="https://getbootstrap.com/">Bootstrap</a>
 
 ## Day 4
 - [ ] Start adding some CSS to your project. Keep all the css in **<project_dir>/assets/css/** folder.
@@ -87,12 +82,12 @@
 
 ## Day 7
 - [ ] Make any final changes in your website, you still have time.
-- [ ] Make sure GitHub pages is enabled for your repository (if not, do so)
+- [ ] Make sure GitHub pages is enabled for your repository. <a href="https://help.github.com/en/enterprise/2.13/user/articles/configuring-a-publishing-source-for-github-pages">Go here to get help with this</a>
 - [ ] Visit **your_username.github.io**. That should be your portfolio.
 - [ ] Keep the forked repository in sync with the actual repository. Refer <a href="https://gist.github.com/CristinaSolana/1885435">this.</a>
 - [ ] In the synced fork on your repository, edit the README.md file to add your Name and the link to your portfolio.
 - [ ] Then make a Pull Request to the Repository on EEESoc Organisation from which you had first forked.
 
 ### Note:
-- Maintain a track of everything that you have learnt in progress.md file.
+- Maintain a track of everything that you have learnt in <a href="./progress.md">progress.md</a> file.
 - Download any code editor of your choice (for example vscode, sublime, brackets etc.)
