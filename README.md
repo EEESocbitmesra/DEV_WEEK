@@ -37,3 +37,10 @@ Lets divide this week into smaller tasks.
 - We encourage you to take help from your friends too. There are channels in the discord for this. Make use of it.
 ![](memes/m4.jpeg)
 - If you are stuck anywhere, remember, google is your best friend.
+
+## Coordinators for the event
+- <a href="https://github.com/devansh03">Devansh</a>
+- <a href="https://github.com/vd-07">Vivek</a>
+- <a href="https://github.com/singhsuryansh12">Suryansh</a>
+- <a href="https://github.com/ashusketch382">Ashutosh</a>
+- <a href="https://github.com/saujanya01">Saujanya</a>
