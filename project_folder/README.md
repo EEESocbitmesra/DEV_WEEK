@@ -1,5 +1,5 @@
 ## Day 1
-- [ ] Make sure youo have gone through <a href="https://github.com/EEESocbitmesra/DEV_WEEK#tasks">this</a> before entering here.
+- [ ] Make sure you have gone through <a href="https://github.com/EEESocbitmesra/DEV_WEEK#tasks">this</a> before entering here.
 - [ ] Make a new GitHub Repository with name **your_username.github.io** on your GitHub account.
 - [ ] Initialize this New Folder as a Git Repository.
 - [ ] Push the contents to your new repository (**your_username.github.io**)
