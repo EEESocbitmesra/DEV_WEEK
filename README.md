@@ -27,5 +27,5 @@ Lets divide this week into smaller tasks.
 ## Note:
 - You can contact all the mentors on this <a href="https://discord.gg/WbRdAqF">discord</a>. We are always ready to help you.
 - Do not hesitate to ask any doubt, even if you think it is silly.
-- We encourege you to take help from your friends too. There are channels in the discord for this. Make use of it.
-- If you are stuck anywhere remember, google is your best friend.
+- We encourage you to take help from your friends too. There are channels in the discord for this. Make use of it.
+- If you are stuck anywhere, remember, google is your best friend.
