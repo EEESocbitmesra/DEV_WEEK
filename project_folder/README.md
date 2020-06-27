@@ -4,6 +4,8 @@
 - [ ] Initialize this New Folder as a Git Repository.
 - [ ] Push the contents to your new repository (**your_username.github.io**)
 
+![](../memes/m8.jpeg)
+
 ## Day 2
 - [ ] Start Learning HTML from 
     - <a href="https://www.w3schools.com/html/default.asp">w3schools</a>
@@ -20,6 +22,7 @@
 - [ ] Make changes in the index.html page of your repository.
 - [ ] Commit and push the changes to your repository.
 
+![](../memes/m5.jpeg)
 ## Day 3
 - [ ] Get acquainted with CSS
     Resource Links :
@@ -39,6 +42,8 @@
         - [ ] Transforms, Transitions and Animations 
 - [ ] You can also learn about CSS Frameworks like <a href="https://getbootstrap.com/">Bootstrap</a>
 
+![](../memes/m13.jpeg)
+
 ## Day 4
 - [ ] Start adding some CSS to your project. Keep all the css in **<project_dir>/assets/css/** folder.
 - [ ] You can also use Bootstrap or any other Framework for styling.
@@ -54,6 +59,8 @@
 - [ ] So, that's a lot of learning for 3 days straight. Go watch <a href="https://www.youtube.com/watch?v=D8c4JZW73cM">this</a>, have  a coffee and get back because **CODERS NEVER QUIT, QUITTERS NEVER CODE**
 
 ## Day 5(JS)
+
+![](../memes/m6.jpeg)
 - [ ] Start Learning Javascipt from 
     - <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide">MDN Web Docs</a>
     - <a href="https://eloquentjavascript.net/">Eloquent Javascript Book for reference</a>
@@ -79,6 +86,8 @@
         - [ ] Object Movements
         - [ ] Fireworks
    - [ ] Two EventListeners for events like Click, KeyDown, Resize, etc.
+   
+   ![](../memes/m3.jpeg)
 
 ## Day 7
 - [ ] Make any final changes in your website, you still have time.
@@ -87,6 +96,8 @@
 - [ ] Keep the forked repository in sync with the actual repository. Refer <a href="https://gist.github.com/CristinaSolana/1885435">this.</a>
 - [ ] In the synced fork on your repository, edit the README.md file to add your Name and the link to your portfolio.
 - [ ] Then make a Pull Request to the Repository on EEESoc Organisation from which you had first forked.
+
+![](../memes/m10.jpeg)
 
 ### Note:
 - Maintain a track of everything that you have learnt in <a href="./progress.md">progress.md</a> file.
