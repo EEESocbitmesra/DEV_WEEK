@@ -1,7 +1,7 @@
 ## Day 1
 - [ ] Make sure you have gone through <a href="https://github.com/EEESocbitmesra/DEV_WEEK#tasks">this</a> before entering here.
 - [ ] Make a new GitHub Repository with name **your_username.github.io** on your GitHub account.
-- [ ] Initialize this New Folder as a Git Repository.
+- [ ] Initialize this New Folder (**project_folder that you have copied in other location in your computer**) as a Git Repository using **_git init_**.
 - [ ] Push the contents to your new repository (**your_username.github.io**)
 
 ![](../memes/m8.jpeg)
