@@ -7,18 +7,18 @@ This is Dev Week, a time to invest your time and potential in expanding your ski
 Lets divide this week into smaller tasks.
 
 ## Tasks
-- [x] Learn Git and GitHub by making an account on GitHub
-    - [x] Resources for Git and GitHub :
+- [ ] Learn Git and GitHub by making an account on GitHub
+    - [ ] Resources for Git and GitHub :
         - <a href="https://www.youtube.com/watch?v=HVsySz-h9r4">Git Tutorial for Beginners: Command-Line Fundamentals(Corey Schafer)</a>
         - <a href="https://www.youtube.com/watch?v=xuB1Id2Wxak">What is Git | What is GitHub | Git Tutorial | GitHub Tutorial | Devops Tutorial | Edureka</a>
         - <a href="https://learngitbranching.js.org/">Learn Git Branching</a>
         
         ![](memes/m2.jpeg)
         
-- [x] <a href="https://help.github.com/en/github/getting-started-with-github/fork-a-repo#fork-an-example-repository">Fork</a> the repo <a href="https://github.com/EEESocbitmesra/DEV_WEEK">EEESoc BIT Mesra's, DEV_WEEK</a>
-- [x] <a href="https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository">Clone</a> the forked repo
-- [x] Copy the folder **project_folder** to some other location on your computer
-- [x] Now go <a href="https://github.com/EEESocbitmesra/DEV_WEEK/tree/master/project_folder#day-1">here</a> and start __Day1__
+- [ ] <a href="https://help.github.com/en/github/getting-started-with-github/fork-a-repo#fork-an-example-repository">Fork</a> the repo <a href="https://github.com/EEESocbitmesra/DEV_WEEK">EEESoc BIT Mesra's, DEV_WEEK</a>
+- [ ] <a href="https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository">Clone</a> the forked repo
+- [ ] Copy the folder **project_folder** to some other location on your computer
+- [ ] Now go <a href="https://github.com/EEESocbitmesra/DEV_WEEK/tree/master/project_folder#day-1">here</a> and start __Day1__
 
 ## Rules and Tips
 - :+1: While editing the template, follow the <a href="https://github.com/EEESocbitmesra/DEV_WEEK/blob/master/README.md">README.md</a> file. Points will be awarded accordingly.
