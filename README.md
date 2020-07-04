@@ -1,4 +1,5 @@
 # DEV_WEEK brought to you by EEESoc
+
 This is Dev Week, a time to invest your time and potential in expanding your skill set. Throughout this week you will be learning various things all by doing yourself, right from the scratch.
 
 **Sounds interesting? Hop in.**
@@ -49,5 +50,5 @@ Lets divide this week into smaller tasks.
 - Ankur Singh => https://update-ankur.github.io/
 - Saketh Kumar Pabba => https://sakpab2602.github.io/sakpab2602/
 - Aprajita Kumari => https://aprajita479.github.io/
-- Zeeshan Equbal => 
+- Zeeshan Equbal => https://zee-bit.github.io/
 - Ankit Kumar => https://ankitk26.github.io/
