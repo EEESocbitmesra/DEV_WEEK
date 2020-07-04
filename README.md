@@ -1,3 +1,6 @@
+  Name: Ankur Singh  
+  [Portfolio](https://update-ankur.github.io/)
+
 # DEV_WEEK brought to you by EEESoc
 
 This is Dev Week, a time to invest your time and potential in expanding your skill set. Throughout this week you will be learning various things all by doing yourself, right from the scratch.
