@@ -1,7 +1,8 @@
 # DEV_WEEK brought to you by EEESoc
-
+<p>
 Name: Saketh kumar pabba
 Portfolio: <a href="https://sakpab2602.github.io/sakpab2602/">Saketh Pabba</a>
+</p>
 This is Dev Week, a time to invest your time and potential in expanding your skill set. Throughout this week you will be learning various things all by doing yourself, right from the scratch.
 
 **Sounds interesting? Hop in.**
