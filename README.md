@@ -1,8 +1,5 @@
 # DEV_WEEK brought to you by EEESoc
 
-This Pull request is from **Zeeshan Equbal**
-<a href = "https://zee-bit.github.io/">Here</a> is my hosted website through gh-pages
-
 This is Dev Week, a time to invest your time and potential in expanding your skill set. Throughout this week you will be learning various things all by doing yourself, right from the scratch.
 
 **Sounds interesting? Hop in.**
@@ -47,3 +44,10 @@ Lets divide this week into smaller tasks.
 - <a href="https://github.com/singhsuryansh12">Suryansh</a>
 - <a href="https://github.com/ashusketch382">Ashutosh</a>
 - <a href="https://github.com/saujanya01">Saujanya</a>
+
+## Submissions
+
+- Ankur Singh => https://update-ankur.github.io/
+- Saketh Kumar Pabba => https://sakpab2602.github.io/sakpab2602/
+- Aprajita Kumari => https://aprajita479.github.io/
+- Zeeshan Equbal => 
