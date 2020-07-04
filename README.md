@@ -48,5 +48,5 @@ Lets divide this week into smaller tasks.
 
 - Ankur Singh => https://update-ankur.github.io/
 - Saketh Kumar Pabba => https://sakpab2602.github.io/sakpab2602/
-- Aprajita Kumari => 
+- Aprajita Kumari => https://aprajita479.github.io/
 - Zeeshan Equbal => 
