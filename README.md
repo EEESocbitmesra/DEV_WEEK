@@ -1,5 +1,5 @@
 # DEV_WEEK brought to you by EEESoc
-NAME:APRAJITA KUMARI "   "
+NAME:APRAJITA KUMARI             
 PORTFOLIO LINK:https://aprajita479.github.io/
 This is Dev Week, a time to invest your time and potential in expanding your skill set. Throughout this week you will be learning various things all by doing yourself, right from the scratch.
 
